@@ -4,7 +4,7 @@ Extracts values from a JSON structure into either a specific value or a data str
 
 ## Examples
 
-```
+```javascript
 var extract = require('json-extract');
 
 var exampleInput = {
